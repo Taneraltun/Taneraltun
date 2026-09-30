@@ -21,7 +21,7 @@ Kurumsal ERP sistemleri (SAP) ile modern yazılım mimarilerini ve yapay zeka (L
 ---
 
 ### 📫 Bana Ulaşın
-- LinkedIn: [linkedin.com/in/taner-altunn](https://linkedin.com/)
+- LinkedIn: [linkedin.com/in/taner-altunn](https://www.linkedin.com/in/taner-altunn/)
 
 ---
 <p align="center">
