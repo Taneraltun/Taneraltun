@@ -1,16 +1,29 @@
-## Hi there 👋
+# Selam, Ben Taner Altun 👋
+### Senior SAP ABAP Developer & Enterprise AI Enthusiast
 
-<!--
-**Taneraltun/Taneraltun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kurumsal ERP sistemleri (SAP) ile modern yazılım mimarilerini ve yapay zeka (LLM) teknolojilerini birleştiren çözümler üretiyorum. Temiz kod (Clean ABAP), modern entegrasyonlar ve veri odaklı mimariler üzerine odaklanıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yetenekler & Teknolojiler
+
+- **SAP & ABAP:** SAP NetWeaver, S/4HANA, OO-ABAP, CDS Views, RAP, OData, BAPI/BAdI, Performance Tuning
+- **Entegrasyon & Web:** RESTful APIs, JSON/XML, HTTP Clients, RFC, IDoc, Webhooks
+- **Modern Teknolojiler:** Python, LLM Entegrasyonları (Hugging Face, OpenAI), abapGit, Clean Code prensipleri
+
+---
+
+### 🚀 Neler Üzerinde Çalışıyorum?
+- 🧠 **ABAP-AI-Bridge:** SAP sistemlerini açık kaynaklı LLM'lerle konuşturan açık kaynak kütüphanesi.
+- ⚡ **Clean ABAP:** Kurumsal projeler için modern tasarım kalıpları (Design Patterns).
+- 📊 **Otonom ERP Mimarileri:** Finans ve tedarik zincirinde yapay zeka tabanlı süreç iyileştirmeleri.
+
+---
+
+### 📫 Bana Ulaşın
+- LinkedIn: [linkedin.com/in/taner-altunn](https://linkedin.com/)
+
+---
+<p align="center">
+  <i>"Writing code that matters, bridging legacy systems with tomorrow's AI."</i>
+</p>
